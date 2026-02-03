@@ -13,3 +13,4 @@ dependencies:
       - torch
       - mlflow
       - tqdm
+      - nbstripout
