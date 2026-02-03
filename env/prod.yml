@@ -1,0 +1,12 @@
+name: ml-prod
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+      - fastapi
+      - uvicorn
