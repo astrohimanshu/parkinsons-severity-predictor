@@ -21,5 +21,6 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "flake8>=7.3.0",
     "ipykernel>=7.2.0",
 ]
